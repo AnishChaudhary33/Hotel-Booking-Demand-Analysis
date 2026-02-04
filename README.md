@@ -2,7 +2,10 @@
 
 ## Project Overview
 This project analyzes hotel booking demand data to identify booking patterns, cancellation behavior, lead time distribution, and seasonal trends.
-Python is used for data cleaning, exploratory data analysis, and feature engineering, while Power BI is used to build an interactive dashboard for business reporting.The objective of this project is to generate actionable insights that help hotels optimize booking strategies, manage cancellations, and improve revenue planning.
+Python is used for data cleaning, exploratory data analysis, and feature engineering, while Power BI is used to build an interactive dashboard for business reporting.
+
+The objective of this project is to generate actionable insights that help hotels optimize booking strategies, manage cancellations, and improve revenue planning.
+
 ---
 
 ## Tools & Technologies Used

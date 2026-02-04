@@ -68,7 +68,7 @@ Some key visualizations created using Python include:
 ---
 
 ## Project Structure
-
+```
 Hotel-Booking-Demand-Analysis/
 │
 ├── data/
@@ -88,3 +88,4 @@ Hotel-Booking-Demand-Analysis/
 │   └── python_visual_3.png      #Lead Time Distribution Chart
 │
 └── README.md
+```

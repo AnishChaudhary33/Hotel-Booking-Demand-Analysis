@@ -56,13 +56,13 @@ The Power BI dashboard provides an interactive view of hotel booking demand and 
 - [Download Power BI Dashboard](powerbi/hotel_booking_dashboard.pbix)
 
 ### 📊 Power BI Dashboard Screenshot
-![Power BI Dashboard](screenshots/dashboard_overview.png)
+![Power BI Dashboard](screenshots/hotel_booking_dashboard_overview.png)
 
 
 ## Python Visualizations
 Some key visualizations created using Python include:
 - **Monthly Bookings** – Bar chart showing the total number of bookings per month.
-- **Lead Time Distribution** – Histogram showing how far in advance customers book.
+- **Lead Time Distribution** – Displays booking distribution based on how many days in advance reservations are made.
 - **Bookings by Market Segment** – Count plot showing the number of bookings for each market segment.
 
 ---
@@ -82,10 +82,10 @@ Hotel-Booking-Demand-Analysis/
 │   └── hotel_booking_dashboard.pbix
 │
 ├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── python_visual_1.png      # Monthly Bookings chart
-│   ├── python_visual_2.png      # Bookings by Market Segment chart
-│   └── python_visual_3.png      #Lead Time Distribution Chart
+│   ├── hotel_booking_dashboard_overview.png
+│   ├── python_visual_1.png                   # Monthly Bookings chart
+│   ├── python_visual_2.png                   # Bookings by Market Segment chart
+│   └── python_visual_3.png                   #Lead Time Distribution Chart
 │
 └── README.md
 ```

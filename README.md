@@ -57,7 +57,7 @@ The Power BI dashboard provides an interactive view of hotel booking demand and 
 - [Download Power BI Dashboard](powerbi/hotel_booking_dashboard.pbix)
 
 ### 📊 Power BI Dashboard Screenshot
-![Power BI Dashboard](screenshots/dashboard_overview.png)
+![Power BI Dashboard](screenshots/hotel_booking_dashboard_overview.png)
 
 
 ## Python Visualizations

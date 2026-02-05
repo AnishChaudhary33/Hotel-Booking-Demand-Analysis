@@ -58,6 +58,7 @@ The Power BI dashboard provides an interactive view of hotel booking demand and 
 
 ### 📊 Power BI Dashboard Screenshot
 ![Power BI Dashboard](screenshots/hotel_booking_dashboard_overview.png)
+![Lead Time Distribution](screenshots/python_visual_3.png)
 
 
 ## Python Visualizations
